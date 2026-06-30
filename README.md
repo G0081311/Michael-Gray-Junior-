@@ -82,7 +82,7 @@ The platform provides:
 
 #### Clone & Setup
 ```bash
-git clone https://github.com/mikecomplexai-7/cortex-platform.git
+git clone https://cortex-nexus-sovereign-industrial-ai.github.io/cortex-platform.git
 cd cortex-platform
 ```
 
@@ -112,7 +112,7 @@ python3 -m http.server 8000
 
 #### Deploy to GitHub Pages
 1. Push changes to `main` branch
-2. Platform auto-deploys to: `https://mikecomplexai-7.github.io/cortex-platform/`
+2. Platform auto-deploys to: `https://cortex-nexus-sovereign-industrial-ai.github.io/cortex-platform/`
 3. Changes live within 2 minutes
 
 ---
